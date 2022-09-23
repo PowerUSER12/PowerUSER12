@@ -2,7 +2,7 @@ Hey,I'm Piyush.
 
 I'm interested in almost everything related to computer programming and different computer technologies.
 
-I'm currently learning web development.
+
 
 Reach me at: kumarapiyush2@gmail.com
 
